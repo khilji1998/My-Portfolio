@@ -4,8 +4,10 @@ function Layout({ children }) {
   return (
     <>
         <Header/>
-         <Outlet />
-        <Footer/>
+        <main>
+          {children}
+        </main>
+ 
     </>
   )
 }
