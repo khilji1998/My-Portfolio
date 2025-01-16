@@ -30,7 +30,7 @@ function Header() {
       <header className="fixed bottom-0 left-0 w-full z-[var(--z-fixed)] bg-[var(--body-color)]">
         <nav className="max-w-[968px] flex h-[var(--header-height)] justify-between items-center max-w-md mx-6">
           <a href="" className="text-[var(--title-color)] font-[var(--font-semi-bold)] hover:text-[var(--first-color)]">
-            Ammad
+          Mehreen
           </a>
           <div className="nav__menu" id="nav-menu">
             <ul className="grid grid-cols-3 gap-6">
